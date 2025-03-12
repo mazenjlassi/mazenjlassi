@@ -27,13 +27,11 @@ Enhancing my **software development skills** and learning new technologies.
 - **System Administration:** Red Hat, Podman  
 
 ### 📫 How to Reach Me  
-📧 **Email:** amirouni162@gmail.com  
+📧 **Email:** jlmazen1073@gmail.com  
 
-### 👨‍💻 My Work  
-🔗 **Portfolio:** [amirouni.github.io/Portfolio/](https://amirouni.github.io/Portfolio/)  
 
 ### 👨‍💻 My linkedin profile
-🔗 **Portfile:** (https://www.linkedin.com/in/amir-el-ouni-8808662a1/overlay/contact-info/)
+🔗 **Portfile:** (https://www.linkedin.com/in/jlassi-mazen-4204bb24b/)
 
 <br>
 <p align="center">

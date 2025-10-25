@@ -13,7 +13,8 @@
 - **Node.js**  
 - **Android Development**  
 - **.NET**
-- **angular** 
+- **angular**
+- **Django**
 
 ### 👯 Looking to Collaborate On  
 Software development projects, especially in **web and mobile development**.  

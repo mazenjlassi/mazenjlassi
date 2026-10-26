@@ -20,32 +20,6 @@ Software engineering graduate experienced in **full-stack development, DevOps, a
 
 ---
 
-## 💼 Experience
-
-### Software Engineer (PFE) · 3LM Solutions — *2025–2026*
-
-**MetaTry — Intelligent Social Media Management & Analytics Platform**
-
-- Built a full-stack platform with **Angular 19, Spring Boot 4, Java 17 and MySQL**; implemented REST APIs and authentication/authorization with **Spring Security and JWT**.
-- Integrated **Facebook Pages** and **Instagram Business** APIs; developed AI-powered content generation, recommendations, chatbot interaction and marketing analysis.
-- Built a **Node.js / Express.js + Playwright** scraper for external social media data and competitive monitoring; automated execution with **GitHub Actions** and integrated results into the backend.
-- Implemented backend, frontend and **end-to-end** tests; containerized services with **Docker** and built **CI/CD** workflows with GitHub Actions.
-- Deployed on **Vercel, Render and Railway**; worked with **Cloudinary** and **n8n** for data processing and automation.
-
-### Software Development Intern · TEK-UP University — *2024–2025*
-
-**BookFlow — Online Library & Book Rental Platform**
-
-- Developed a **.NET + Angular** platform for book catalogs, loans, authentication and user roles.
-- Built a delivery management module and secure frontend–backend communication through **REST APIs**.
-
-### Training Intern · TEK-UP University — *2023–2024*
-
-- Linux administration, task automation and container management with **Podman** during RHCSA & OSA Java training.
-- **RFID access-control system** with an integrated web-based management interface (final-year project, BQube.its).
-
----
-
 ## 🚀 Featured Projects
 
 ### MetaTry — Social Media Management & Analytics
